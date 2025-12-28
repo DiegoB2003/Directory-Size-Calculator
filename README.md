@@ -1,5 +1,8 @@
 # Directory Size Calculator
 
+## Download JAR
+[Here](https://github.com/DiegoB2003/Directory-Size-Calculator/releases/tag/v1.0.0)
+
 ## Requirements
 - Java 8 or higher
 
