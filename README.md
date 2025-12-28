@@ -1,8 +1,5 @@
 # Directory Size Calculator
 
-## Requirements
-- Java 8 or higher
-
 ## How to Run
 ```bash
 java -jar DirectorySizeCalculator.jar
