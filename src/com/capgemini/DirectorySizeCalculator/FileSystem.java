@@ -22,6 +22,9 @@ public class FileSystem {
         Directory images = new Directory("images", root);
         images.addChild(new File("photo.jpg", 200));
 
+        Directory roadTrip = new Directory("road_trip", images);
+        images.addChild(roadTrip);
+
         root.addChild(docs);
         root.addChild(images);
         root.addChild(new File("readme.md", 10));
